@@ -1,0 +1,10 @@
+C:\Users\mimmi\source\repos\Adressbok\Adressbok\bin\Debug\Adressbok.exe.config
+C:\Users\mimmi\source\repos\Adressbok\Adressbok\bin\Debug\Adressbok.exe
+C:\Users\mimmi\source\repos\Adressbok\Adressbok\bin\Debug\Adressbok.pdb
+C:\Users\mimmi\source\repos\Adressbok\Adressbok\obj\Debug\Adressbok.csprojResolveAssemblyReference.cache
+C:\Users\mimmi\source\repos\Adressbok\Adressbok\obj\Debug\Adressbok.Adressbok.resources
+C:\Users\mimmi\source\repos\Adressbok\Adressbok\obj\Debug\Adressbok.Properties.Resources.resources
+C:\Users\mimmi\source\repos\Adressbok\Adressbok\obj\Debug\Adressbok.csproj.GenerateResource.Cache
+C:\Users\mimmi\source\repos\Adressbok\Adressbok\obj\Debug\Adressbok.csproj.CoreCompileInputs.cache
+C:\Users\mimmi\source\repos\Adressbok\Adressbok\obj\Debug\Adressbok.exe
+C:\Users\mimmi\source\repos\Adressbok\Adressbok\obj\Debug\Adressbok.pdb
